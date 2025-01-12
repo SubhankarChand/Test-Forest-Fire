@@ -45,11 +45,11 @@ python application.py
 - Submit the form to get the predicted FWI value.
 
 ## File Descriptions
-application.py: Main Flask application handling routes and prediction logic.
-models/: Directory containing the pre-trained ridge.pkl and scaler.pkl models.
-templates/: Contains HTML files (home.html) for the web interface.
-static/: Directory for static files (if any).
-requirements.txt: List of dependencies for the project.
+- application.py: Main Flask application handling routes and prediction logic.
+- models/: Directory containing the pre-trained ridge.pkl and scaler.pkl models.
+- templates/: Contains HTML files (home.html) for the web interface.
+- static/: Directory for static files (if any).
+- requirements.txt: List of dependencies for the project.
 
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
