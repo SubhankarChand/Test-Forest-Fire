@@ -32,10 +32,12 @@ The **Test Forest Fire** project aims to predict forest fire behavior using a Ri
 ```bash
 pip install -r requirements.txt
 Place the ridge.pkl and scaler.pkl models in the models/ directory.
+```
 
 ## Run the Flask application:
 ```bash
 python application.py
+```
 
 ## Usage
 - Navigate to the prediction form at the root URL.
